@@ -1,2 +1,2 @@
 # MT-Hugging-face-Random-sampling
-# These are the random samples of test split data sets from https://huggingface.co/datasets/csebuetnlp/xlsum
+# New repo has been made for the project related to MT-Hugging-face-Random-sampling
